@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.6371fbef.js",
+    "main.js": "/home/static/js/main.390a7815.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/PratikNadipelliWebPic.png": "/home/static/media/PratikNadipelliWebPic.4b242c54436f543d54c5.png",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.6371fbef.js.map": "/home/static/js/main.6371fbef.js.map",
+    "main.390a7815.js.map": "/home/static/js/main.390a7815.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.6371fbef.js"
+    "static/js/main.390a7815.js"
   ]
 }
