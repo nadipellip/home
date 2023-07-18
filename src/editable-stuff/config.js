@@ -6,14 +6,14 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Pratik",
   middleName: "",
-  lastName: "Shoaib",
+  lastName: "Nadipelli",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/pnadipel",
     },
     {
       image: "fa-facebook",
@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/14PmN38Y8OSJzvqCmNorsQed2rgJDQEHm/view?usp=drive_link",
 };
 
 // PROJECTS SECTION
@@ -127,7 +127,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+  email: "pnadipel@umich.com",
 };
 
 const experiences = {
