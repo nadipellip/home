@@ -39,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/PratikNadipelliWebPic.png"),
+  imageLink: require("../editable-stuff/HeadshotResumeApp.jpeg"),
   imageSize: 375,
   message:
     "My name is Pratik Nadipelli.",
