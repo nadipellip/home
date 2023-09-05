@@ -119,17 +119,17 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Software Engineer Intern: Parsons',// Here Add Company Name
+      companylogo: require('../assets/img/parsonslogo.png'),
+      date: 'June 2023 – August 2023',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
+      role: 'Software Engineer Intern: Xator Corporation',
+      companylogo: require('../assets/img/xatorlogo.png'),
       date: 'May 2017 – May 2018',
     },
   ]
